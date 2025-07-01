@@ -2,7 +2,7 @@ import json
 import os
 
 tasks = []
-
+# merhaba
 def load_tasks():
     global tasks
     if os.path.exists("todolist.json"):
